@@ -8,7 +8,8 @@
     "direction_id": 0,
     "block_id": "",
     "shape_id": "4__1____1__IT_1",
-    "wheelchair_accessible": 1
+    "wheelchair_accessible": 1,
+    "kk": 0
   },
   {
     "route_id": "4__1___",
